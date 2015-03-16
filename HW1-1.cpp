@@ -4,6 +4,8 @@
 */
 
 #include<iostream> //載入標頭檔
+#include<stdlib.h>
+#include<iomanip>
 
 using namespace std; //定義想要簡寫的名稱
 
